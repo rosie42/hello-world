@@ -1,15 +1,21 @@
 Using the Try Git tutorial from codeschool.com
 
 create a repo 
+```bash
 git init
+```
 
 this creates and an empty repo /.git/ in the current directory
 
 get the current status of the repo 
+```bash
 git status
+```
 
 start tracking the test file to the repo
+```bash
 git add octocat.txt
+```
 
 commit the changes to the repo and add a comment
 ```bash
